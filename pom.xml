@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.0.120:8081/repository/MAV-REL/</url>
+            <url>http://192.168.43.86:8081/repository/MAV-REL/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.0.120:8081/#admin/repository/repositories:MAV-SANP/</url>
+            <url>http://192.168.43.86:8081/repository/MAV-SANP/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
